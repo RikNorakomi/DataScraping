@@ -1,0 +1,266 @@
+{
+	"Title": "More metal - more weapons!",
+	"Author": "Avvakumov M. N.",
+	"Image_filepath": "/img/posters/600px/0011.jpg",
+	"Filename": "0011.jpg",
+	"Category": "Army",
+	"Year": "1941",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "The Party is the mind, honor and conscience of our epoch!",
+	"Author": "Babin N. S.",
+	"Image_filepath": "/img/posters/600px/0470.jpg",
+	"Filename": "0470.jpg",
+	"Category": "Army",
+	"Year": "1976",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "Chapaev",
+	"Author": "Belskiy A. P.",
+	"Image_filepath": "/img/posters/600px/0046.jpg",
+	"Filename": "0046.jpg",
+	"Category": "Army",
+	"Year": "1935",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "Fulfill work norms with a socialist attitude to the steam locomotive and rapid work movement",
+	"Author": "Bulanov D. A.",
+	"Image_filepath": "/img/posters/600px/0119.jpg",
+	"Filename": "0119.jpg",
+	"Category": "Army",
+	"Year": "1931",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "Don't chatter! Keep the military and state secret strictly!",
+	"Author": "Chudov U. N.",
+	"Image_filepath": "/img/posters/600px/0110.jpg",
+	"Filename": "0110.jpg",
+	"Category": "Army",
+	"Year": "1958",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "Ivan Vasilievich Changes His Profession",
+	"Author": "Evseev A. N. Zolotarevskiy P. D.",
+	"Image_filepath": "/img/posters/600px/0068.jpg",
+	"Filename": "0068.jpg",
+	"Category": "Army",
+	"Year": "1973",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "All-Russian Agricultural Exhibition",
+	"Author": "Lebedev I. Fidman V. I.",
+	"Image_filepath": "/img/posters/600px/0077.jpg",
+	"Filename": "0077.jpg",
+	"Category": "Army",
+	"Year": "1923",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "The State Circus. The Dourov's railway",
+	"Author": "Golshtein E.",
+	"Image_filepath": "/img/posters/600px/0078.jpg",
+	"Filename": "0078.jpg",
+	"Category": "Army",
+	"Year": "1929",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "The Dawns Here Are Quiet",
+	"Author": "Grebenschikov E. S.",
+	"Image_filepath": "/img/posters/600px/0067.jpg",
+	"Filename": "0067.jpg",
+	"Category": "Army",
+	"Year": "1980",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "Transport is the brother of the Red Army",
+	"Author": "Gromitskiy I. I.",
+	"Image_filepath": "/img/posters/600px/0127.jpg",
+	"Filename": "0127.jpg",
+	"Category": "Army",
+	"Year": "1941",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "Long live everlasting, indestructible friendship between Soviet and Cuban People",
+	"Author": "Kershin U. Gurariy S.",
+	"Image_filepath": "/img/posters/600px/0460.jpg",
+	"Filename": "0460.jpg",
+	"Category": "Army",
+	"Year": "1963",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "Oil industry workers, more oil for the Motherland! Perform five-year plan in 4 years!",
+	"Author": "Krivonogov P.",
+	"Image_filepath": "/img/posters/600px/0130.jpg",
+	"Filename": "0130.jpg",
+	"Category": "Army",
+	"Year": "http://en.wikipedia.org/wiki/Five-Year_Plans_for_the_National_Economy_of_the_Soviet_Union",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "The Battleship Potemkin. 1905",
+	"Author": "Lavinskiy A. M.",
+	"Image_filepath": "/img/posters/600px/0151.jpg",
+	"Filename": "0151.jpg",
+	"Category": "Army",
+	"Year": "1926",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "People's dreams came true!",
+	"Author": "Lavrov A. I.",
+	"Image_filepath": "/img/posters/600px/0440.jpg",
+	"Filename": "0440.jpg",
+	"Category": "Army",
+	"Year": "1950",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "Women at the kolkhozes are great power",
+	"Author": "Pinus N. S.",
+	"Image_filepath": "/img/posters/600px/0031.jpg",
+	"Filename": "0031.jpg",
+	"Category": "Army",
+	"Year": "1933",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "Give me a hand!",
+	"Author": "Serebryaniy I. A.",
+	"Image_filepath": "/img/posters/600px/0593.jpg",
+	"Filename": "0593.jpg",
+	"Category": "Army",
+	"Year": "1944",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "Glory to the Soviet people - the creator of the strongest aviation",
+	"Author": "Soloviev M. M.",
+	"Image_filepath": "/img/posters/600px/0332.jpg",
+	"Filename": "0332.jpg",
+	"Category": "Army",
+	"Year": "1954",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "Glory to the Soviet Railwaymen!",
+	"Author": "Tsarev V. G.",
+	"Image_filepath": "/img/posters/600px/0129.jpg",
+	"Filename": "0129.jpg",
+	"Category": "Army",
+	"Year": "1951",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
+{
+	"Title": "The enemy does not sleep ... Be vigilant!",
+	"Author": "Savostuk O. M. Uspenskiy B. A.",
+	"Image_filepath": "/img/posters/600px/0109.jpg",
+	"Filename": "0109.jpg",
+	"Category": "Army",
+	"Year": "1961",
+	category =false
+	title =true
+	year =true
+	author =true
+	filepath =true
+	filename =true
+},
